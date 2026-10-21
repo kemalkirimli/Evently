@@ -1,4 +1,4 @@
-[evently_readme.md](https://github.com/user-attachments/files/33770087/evently_readme.md)
+
 # Evently - University Event Discovery & Registration Platform
 
 **Project Name:** Evently
