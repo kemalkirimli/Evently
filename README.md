@@ -99,7 +99,7 @@ Follow these steps to set up the project locally on your machine:
 1. **Clone the repository:**
 
    ```
-   git clone <repository-url>
+   git clone <https://github.com/kemalkirimli/Evently>
    
    ```
 
@@ -146,13 +146,6 @@ Follow these steps to set up the project locally on your machine:
 
    ```
    flask run
-   
-   ```
-
-3. Open your web browser and go to:
-
-   ```
-   http://127.0.0.1:5000
    
    ```
 
